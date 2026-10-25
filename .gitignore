@@ -4,3 +4,8 @@
 "cipher" 
 "main" 
 "*.tar" 
+".idea/" 
+"*.exe" 
+"*.tar" 
+"input.txt" 
+"output.txt" 
